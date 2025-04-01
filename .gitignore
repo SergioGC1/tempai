@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Comentario Sergio
+#Excluimos main.yml
+.github/workflows/main.yml
+
 # C extensions
 *.so
 
