@@ -5,7 +5,7 @@ __pycache__/
 
 #Comentario Sergio
 #Excluimos main.yml
-.github/workflows/main.yml
+workflows/main.yml
 
 # C extensions
 *.so
